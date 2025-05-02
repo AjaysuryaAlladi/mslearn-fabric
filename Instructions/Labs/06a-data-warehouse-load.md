@@ -203,7 +203,7 @@ Let's run some analytical queries to validate the data in the warehouse.
 
     ```
 
-    > **Note:** This query shows the top-seliing items by total sales for the year of 2021. These results suggest that the *Mountain-200 bike* model, in both black and silver colors, was the most popular item among customers in 2021.
+    > **Note:** This query shows the top-selling items by total sales for the year of 2021. These results suggest that the *Mountain-200 bike* model, in both black and silver colors, was the most popular item among customers in 2021.
 
 1. On the top menu, select **New SQL query** or reuse the same editor, then copy and run the following query.
 
